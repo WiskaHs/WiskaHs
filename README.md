@@ -5,3 +5,5 @@ I'm and old (VAX and VMS) school computer engineer, always learning and now star
 Long experience in industrial computing, signal processing and automation.
 
 Actually learning some front-end development, CSS and HTML (never too late!).
+
+I need to update my photo profile.
